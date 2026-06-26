@@ -1,0 +1,7 @@
+MOVE SETUP IN YOUR ANOTHER FILE LIKE DESKTOP DOWNLOAD ...
+
+LAUNCH IT AND SEE IF FILE MOOV
+
+pip install colorama
+
+Any Interface Bug just F11
